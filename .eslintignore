@@ -1,0 +1,8 @@
+node_modules
+docker
+infra
+jest.config.js
+next.config.js
+*.stories.tsx
+/.storybook/*
+
