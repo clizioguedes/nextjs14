@@ -1,4 +1,4 @@
-import { StyledComponentsRegistry, TanstackProvider } from 'lib'
+import { StyledComponentsRegistry, TanstackProvider } from 'libs'
 import type { Metadata } from 'next'
 import { Inter, Poppins } from 'next/font/google'
 
